@@ -125,4 +125,4 @@ VALUES
 -- 1 Executive Lead: David Wilson
 
 
-SELECT * FROM Users;
+SELECT * FROM Teams;
